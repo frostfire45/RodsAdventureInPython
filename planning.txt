@@ -1,0 +1,5 @@
+
+Initial variables decided.
+What type of method are going to use, Serial or Object Oriented Programming(OOP)
+
+Need to create a menu. 
